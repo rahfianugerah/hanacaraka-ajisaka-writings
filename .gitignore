@@ -1,0 +1,7 @@
+artifacts/
+logs/
+temp/
+
+__pycache__/
+*.log
+*.tmp
